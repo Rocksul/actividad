@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(235, 224, 224);
+    text-align: center;
+}
+.p_green{
+    text-decoration: underline;
+    color: #3ac410;
+}
+
+.p_red{
+    text-decoration: underline;
+    color: #f31b1b;
+
+}
+
+.subrayado{
+    text-decoration: underline overline;
+}
+.p_grande{
+    font-size: 50px;
+}
+
+.p_blue{
+    color: #4c10d8;
+}

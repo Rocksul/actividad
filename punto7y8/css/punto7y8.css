@@ -1,0 +1,21 @@
+/*punto7y8*/
+.p78{
+    background-color:violet ;
+}
+
+.p78 ul{
+    display: inline-flex;
+}
+.p78 li {
+ padding: 12px;
+ list-style: none;
+}
+
+.p78 li :hover{
+background-color: blue;
+}
+
+.p78 a {
+    color: white;
+    font-size: 22px;
+}
